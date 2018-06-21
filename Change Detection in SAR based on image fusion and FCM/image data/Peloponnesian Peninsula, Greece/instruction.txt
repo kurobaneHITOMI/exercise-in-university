@@ -1,0 +1,11 @@
+sensor:    NIR band of the IRSPE WiFS
+size:      512*512
+resolution:
+data:      1998.04 and 1998.09
+area:      the southern part of the Peloponnesian Peninsula, Greece
+
+
+Images of the Peloponnesian Peninsula, Greece, utilized in the experiments: (a) NIR band of the IRSPE WiFS image acquired in April 1998; (b) NIR band of the IRS-PE WiFS image acquired in September 1998; (c) ground-truth map of the changed area used as a reference map in the experiments.
+
+
+The first of the two data sets used in the experiments was composed of two images acquired in the same area by a passive multispectral scanner installed on a satellite [i.e., the Wide Field Sensor (WiFS) mounted on board the IRS-P3 satellite]. The area shown in the two images was a section (512 512 pixels) of a scene acquired in the southern part of the Peloponnesian Peninsula, Greece, in April 1998 and September 1998.

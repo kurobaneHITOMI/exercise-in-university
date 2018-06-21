@@ -1,0 +1,8 @@
+sensor:    ERS-2 SAR
+size:      512*512
+resolution:
+data:      1996.08.24 and 1999.08.14
+area:      Red River, Vietnam
+
+two original images 1Xand 2X corresponding to non-flood and flood respectively (512¡Á512)
+two ERS-2 SAR images were used to carry out the experiments, which are taken from Red River, Vietnam, on August 24,1996 and August 14,1999 respectively (Figure 2). The image size is 512¡Á512.

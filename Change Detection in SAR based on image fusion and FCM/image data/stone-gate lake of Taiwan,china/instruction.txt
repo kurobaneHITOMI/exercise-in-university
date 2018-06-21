@@ -1,0 +1,13 @@
+sensor:    福卫2号卫星影像
+size:      400*400
+resolution:8m
+data:      2004.08.16 and 2004.09.14
+area:      台湾石门水库上游
+
+台湾石门水库上游  2004.08.16 和2004.09.14
+艾利风灾前后的福卫2号卫星影像
+主要变化:是由台引起的地面崩塌,出现大量的裸地
+
+remote sensing ground resolution:PAN(black/white)image 2meters;NS(color)Image 8meters.
+
+Image swatch:24 kilometers

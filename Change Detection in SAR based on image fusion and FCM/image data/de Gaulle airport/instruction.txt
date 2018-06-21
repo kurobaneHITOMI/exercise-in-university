@@ -1,0 +1,7 @@
+sensor:    ERS-1 SAR
+size:      240*370
+resolution:
+data:      1997.07.24 and 1998.10.24
+area:      de Gaule airport in France
+
+In the second experiment, we analyzed two ERS-1 SAR images of de Gaule airport in France at different times.

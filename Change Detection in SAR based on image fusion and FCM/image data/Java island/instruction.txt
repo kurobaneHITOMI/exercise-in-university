@@ -1,0 +1,12 @@
+sensor:    ERS-1
+size:      512*512
+resolution:
+data:      
+area:      a rice plantation in Java Island,Indonesia
+
+
+Three co-registered ERS-1 images of a rice plantation in Java Island,Indonesia (size: 512 ¡Á 512). A flood can be observed in the bottom-right part of the (c) image.
+
+
+An exemple is given with the three SAR images in figure 1. They show a rice plantation in Semarang (Java Island) with mainly early rice, late rice and other fields. The change that has to be automatically detected concerns
+the impact of the flood in image It3 .
